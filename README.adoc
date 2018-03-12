@@ -2,7 +2,7 @@ Solarized Colorscheme for Netbeans
 ==================================
 Marco Herrn <marco@mherrn.de>
 2018-03-17
-:toc:
+:notoc:
 :homepage: https://github.com/hupfdule/solarized-netbeans-colorscheme
 :solarized-homepage: http://ethanschoonover.com/solarized
 :fenti-solarized-colorscheme-homepage: https://github.com/fentie/netbeans-colors-solarized
