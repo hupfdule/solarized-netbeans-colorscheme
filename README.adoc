@@ -7,6 +7,7 @@ Marco Herrn <marco@mherrn.de>
 :solarized-homepage: http://ethanschoonover.com/solarized
 :fenti-solarized-colorscheme-homepage: https://github.com/fentie/netbeans-colors-solarized
 :download-page: https://github.com/hupfdule/solarized-netbeans-colorscheme/releases
+:issue-page: https://github.com/hupfdule/solarized-netbeans-colorscheme/issues
 :source-highlighter: prettify
 :version: 1.0.0-SNAPSHOT
 
@@ -18,6 +19,10 @@ A Colorscheme for Netbeans that is inspired by the
 This Colorscheme is derived from the
 {fenti-solarized-colorscheme-homepage}[Solarized Colorscheme of Brian
 Fenton].
+
+.Example screenshot of Netbeans running with Solarized Colorscheme and Solarized Look & Feel
+[link=netbeans-solarized.png]
+image::netbeans-solarized.png[Screenshot Netbeans with Solarized Look & Feel]
 
 
 Installation
